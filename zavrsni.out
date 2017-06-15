@@ -1,0 +1,19 @@
+\BOOKMARK [0][-]{chapter.1}{Uvod}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Dubinska analiza podataka}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Opcenito i nastanak}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Proces dubinske analize podataka}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Opis CRISP-DM modela dubinske analize podataka}{chapter.2}% 5
+\BOOKMARK [0][-]{chapter.3}{Strojno ucenje}{}% 6
+\BOOKMARK [1][-]{section.3.1}{Opcenito, nastanak i razvoj}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.2}{Podjela strojnog ucenja}{chapter.3}% 8
+\BOOKMARK [2][-]{subsection.3.2.1}{Nadzirano ucenje}{section.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.2.2}{Nenadzirano ucenje}{section.3.2}% 10
+\BOOKMARK [0][-]{chapter.4}{Dubinska analiza podataka u edukacijskoj domeni}{}% 11
+\BOOKMARK [1][-]{section.4.1}{Opcenito, nastanak i razvoj}{chapter.4}% 12
+\BOOKMARK [1][-]{section.4.2}{Pristupi kod EDM-a}{chapter.4}% 13
+\BOOKMARK [0][-]{chapter.5}{Studijski primjer}{}% 14
+\BOOKMARK [1][-]{section.5.1}{Priprema za analizu}{chapter.5}% 15
+\BOOKMARK [1][-]{section.5.2}{Predvianje uspjeha ucenika - KNN algoritam}{chapter.5}% 16
+\BOOKMARK [1][-]{section.5.3}{Provjera ovisnosti uspjeha ucenika o razlicitim atributima - Logisticka regresija}{chapter.5}% 17
+\BOOKMARK [0][-]{chapter.6}{Zakljucak}{}% 18
+\BOOKMARK [0][-]{chapter*.20}{Literatura}{}% 19
