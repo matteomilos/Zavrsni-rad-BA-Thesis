@@ -1,10 +1,13 @@
 # ZAVRŠNI RAD / BA Thesis 
 
+
 ### Naziv teme:
 ## Primjena klasifikacijske analize u edukacijskoj domeni
 
 ### Opis teme:
 Znanstveno polje EDM (engl. Educational Data Mining - rudarenje podataka u edukaciji) bavi se primjenom metoda i tehnologija rudarenja podataka u nastavnom okruženju. To je relativno novo, interdisciplinarno polje koje se orijentira na analitiku specifičnih tipova podataka vezanih uz edukaciju. Cilj je bolje razumijevanje procesa usvajanja znanja, prepoznavanje svojstava okruženja u kojem se uči te dobivanje uvida u nastavne fenomene. Vaš zadatak je proučiti metode klasifikacijske analize i na studijskom primjeru prikazati slučaj uporabe i učinkovitost istih nad realnim podacima iz edukacijske domene.
+
+
 
 ### Subject:
 ## Application of Classification Analysis in the Educational Domain
