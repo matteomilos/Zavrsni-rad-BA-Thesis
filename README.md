@@ -1,4 +1,4 @@
-# ZAVRŠNI RAD / BA Thesis
+# ZAVRŠNI RAD / BA Thesis 
 
 ### Naziv teme:
 ## Primjena klasifikacijske analize u edukacijskoj domeni
